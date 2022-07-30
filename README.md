@@ -29,4 +29,4 @@ Warning: The program is relatively slow, expect roughly 5 minutes of computing t
 ![Result Chosen Background 3 Grain](https://user-images.githubusercontent.com/96302110/181905526-0166421b-6546-46a9-8b2c-012c4e0b3e8f.png)
 
 ## Threshold: 15, Direction Count: 16
-#![Result Chosen Background 4 Grain](https://user-images.githubusercontent.com/96302110/181905521-eab295b2-ec4e-407b-803c-f2d528154634.png)
+![Result Chosen Background 4 Grain](https://user-images.githubusercontent.com/96302110/181905521-eab295b2-ec4e-407b-803c-f2d528154634.png)
