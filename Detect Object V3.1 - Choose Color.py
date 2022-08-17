@@ -22,7 +22,7 @@ def matrix_create(img):
     img_colors = img.convert('RGB')
     width = img.size[0]
     height = img.size[1]
-    res = np.zeros(width,height)
+    res = np.zeros(height,width)
     for x in range(width):
         for y in range(height):
             res[y, x] = img_colors[x,y]
